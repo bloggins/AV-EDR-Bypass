@@ -1,1 +1,3 @@
 Encryption by - https://github.com/skahwah/encrypt
+Probably will NOT actually bypass modern EDR out of the box...
+Its just a name - relax!
